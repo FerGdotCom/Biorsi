@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biorsi.iml" filepath="$PROJECT_DIR$/Biorsi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biorsi/biorsi.iml" filepath="$PROJECT_DIR$/biorsi/biorsi.iml" />
+    </modules>
+  </component>
+</project>
